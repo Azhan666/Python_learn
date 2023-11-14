@@ -1,0 +1,12 @@
+5.用代码创建一个text.txt文档，分别写入(20%分)
+Nowadays, pets become so close and friendly to our human-beings that more and more people enjoy keeping them.
+Pets can bring them a lot of joys and happiness, because playing with pets is a good way to communicate with the nature.
+Besides, pets can comfort old people who live alone. With the companion of pets, they won’t feel lonely. Nevertheless,
+I’m not interested in keeping pets at all. For one thing, keeping pets is bad for environmental protection,
+since pets usually make a lot of noise and contaminate the roads. For another,
+the virus carried by pets may cause fatal disease. What’s more, sometimes pets may attack people when they are unhappy.
+Consequently, we had better not keep too many pets,
+so as to ensure our health and security.
+Besides, those pet lovers must take some effective measures to prevent their pets from hurting people and polluting our environment
+然后把text文档里面的内容读出来，打印每一个字母出现的次数(不需要分辨大小写)
+"""
